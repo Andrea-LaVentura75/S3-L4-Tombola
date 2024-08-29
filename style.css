@@ -1,0 +1,31 @@
+body {
+  max-width: 900px;
+  margin-inline: auto;
+  background-color: whitesmoke;
+}
+body h1 {
+  text-align: center;
+}
+.conteiner-numero {
+  display: inline-block;
+  border: solid black;
+  width: 5em;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: 4px;
+  border-radius: 50%;
+}
+.contenitore-button {
+  text-align: center;
+}
+.estrai {
+  border: 0;
+  padding: 14px;
+  border-radius: 20px;
+  color: #ffe200;
+  background-color: black;
+}
+body h2 {
+  text-align: center;
+  margin-top: 4rem;
+}
